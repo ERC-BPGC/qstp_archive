@@ -2,8 +2,8 @@
 	path = intro_to_ROS_2019
 	url = https://github.com/hardesh/QSTP-Introduction_to_ROS
 [submodule "intro_to_mechatronics_2020"]
-	path = intro_to_ROS_2019
-	url = https://github.com/abhidxt299/QSTP-Introduction-to-Mechatronics
+	path = intro_to_mechatronics_2020
+	url = https://github.com/ERC-BPGC/QSTP-Introduction-to-Mechatronics
 [submodule "robot_automation_using_ROS_2020"]
-	path = intro_to_ROS_2019
+	path = robot_automation_using_ROS_2020
 	url = https://github.com/adbidwai/QSTP-Robotics_Automation_using_ROS
