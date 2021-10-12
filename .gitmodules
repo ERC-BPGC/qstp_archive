@@ -1,9 +1,18 @@
-[submodule "intro_to_ROS_2019"]
-	path = intro_to_ROS_2019
-	url = https://github.com/hardesh/QSTP-Introduction_to_ROS
-[submodule "intro_to_mechatronics_2020"]
-	path = intro_to_mechatronics_2020
-	url = https://github.com/ERC-BPGC/QSTP-Introduction-to-Mechatronics
-[submodule "robot_automation_using_ROS_2020"]
-	path = robot_automation_using_ROS_2020
+[submodule "2021/QSTP_Robot-Automation-using-ROS_2021"]
+	path = 2021/QSTP_Robot-Automation-using-ROS_2021
+	url = https://github.com/ERC-BPGC/QSTP_Robot-Automation-using-ROS_2021
+[submodule "2021/QSTP_Introduction-to-Mechatronics_2021"]
+	path = 2021/QSTP_Introduction-to-Mechatronics_2021
+	url = https://github.com/ERC-BPGC/QSTP_Introduction-to-Mechatronics_2021
+[submodule "2021/QSTP_Introduction-to-MATLAB_2021"]
+	path = 2021/QSTP_Introduction-to-MATLAB_2021
+	url = https://github.com/ERC-BPGC/QSTP_Introduction-to-MATLAB_2021
+[submodule "2020/QSTP-Introduction-to-Mechatronics"]
+	path = 2020/QSTP-Introduction-to-Mechatronics
+	url = https://github.com/abhidxt299/QSTP-Introduction-to-Mechatronics
+[submodule "2020/QSTP-Robotics_Automation_using_ROS"]
+	path = 2020/QSTP-Robotics_Automation_using_ROS
 	url = https://github.com/adbidwai/QSTP-Robotics_Automation_using_ROS
+[submodule "2019/QSTP-Introduction_to_ROS"]
+	path = 2019/QSTP-Introduction_to_ROS
+	url = https://github.com/hardesh/QSTP-Introduction_to_ROS

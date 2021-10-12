@@ -1,9 +1,0 @@
-[submodule "Robot_Automation_using_ROS"]
-	path = Robot_Automation_using_ROS
-	url = https://github.com/ERC-BPGC/QSTP_Robot-Automation-using-ROS_2021
-[submodule "Introduction_to_Mechatronics"]
-	path = Introduction_to_Mechatronics
-	url = https://github.com/ERC-BPGC/QSTP_Introduction-to-Mechatronics_2021
-[submodule "Introduction_to_MATLAB"]
-	path = Introduction_to_MATLAB
-	url = https://github.com/ERC-BPGC/QSTP_Introduction-to-MATLAB_2021
