@@ -1,0 +1,6 @@
+[submodule "Robotics_Automation_using_ROS"]
+	path = Robotics_Automation_using_ROS
+	url = https://github.com/adbidwai/QSTP-Robotics_Automation_using_ROS
+[submodule "Introduction_to_Mechatronics"]
+	path = Introduction_to_Mechatronics
+	url = https://github.com/ERC-BPGC/QSTP-Introduction-to-Mechatronics
